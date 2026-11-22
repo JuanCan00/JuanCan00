@@ -1,65 +1,175 @@
 <div align="center">
 
-# Hola, soy Juan Pablo Cano 👋
+<!-- Animated Data Center / NOC Hero Banner -->
+<img src="./assets/datacenter-hero.svg" alt="Juan Pablo Cano — Data Center & Telecommunications Engineering" width="100%" />
 
-**Estudiante de Ingeniería en Telecomunicaciones · Universidad Militar Nueva Granada (Colombia)**  
-*Redes · Sistemas · Infraestructura Cloud · Procesamiento de Señales · Desarrollo Web*
+<br />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan%20Pablo%20Cano-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juancan00)
-[![GitHub](https://img.shields.io/badge/GitHub-JuanCan00-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JuanCan00)
-[![Ubicación](https://img.shields.io/badge/Ubicaci%C3%B3n-Colombia-FCD116?style=flat-square&logoColor=black)](#)
+<!-- Dynamic Terminal Typing Line -->
+<a href="https://github.com/JuanCan00">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=760&height=34&lines=%3E_Ingenier%C3%ADa+en+Telecomunicaciones+%C2%B7+UMNG+Colombia;%3E_Redes+de+Datos+%C2%B7+Teletr%C3%A1fico+TCP%2FIP+%C2%B7+Cloud;%3E_Procesamiento+de+Se%C3%B1ales+(FFT)+%C2%B7+Sistemas+Embebidos;%3E_Desarrollo+Web+Moderno+%C2%B7+Next.js+%C2%B7+Three.js+%C2%B7+Python" alt="Terminal Telemetry" />
+</a>
+
+<br />
+
+<!-- Pro Contact & Profile Pills -->
+<a href="https://www.linkedin.com/in/juancan00">
+  <img src="https://img.shields.io/badge/LINKEDIN-JUAN%20PABLO%20CANO-0B1120?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0F172A" alt="LinkedIn" />
+</a>
+<a href="https://github.com/JuanCan00?tab=repositories">
+  <img src="https://img.shields.io/badge/REPOSITORIOS-PORTAFOLIO-0B1120?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=0F172A" alt="GitHub Repos" />
+</a>
+<img src="https://img.shields.io/badge/NODE-COLOMBIA%20%C2%B7%20UMNG-0B1120?style=for-the-badge&logo=cloudflare&logoColor=10B981&labelColor=0F172A" alt="Colombia UMNG" />
 
 </div>
 
----
+<br />
 
-## Acerca de mí
+<img src="./assets/fiber-divider.svg" alt="Fiber Optic Divider" width="100%" />
 
-Soy estudiante de **Ingeniería en Telecomunicaciones** enfocado en tecnologías de la información y las comunicaciones (TIC), redes de datos, arquitectura cloud, procesamiento digital de señales y desarrollo de aplicaciones web interactivas.
+## `01 //` System Overview — Perfil Técnico
 
-Me apasiona construir soluciones prácticas que conecten la teoría de ingeniería con software bien estructurado, desde simuladores científicos 3D y análisis de tráfico TCP hasta sistemas embebidos y plataformas web modernas.
+```yaml
+node_profile:
+  engineer:   "Juan Pablo Cano (@JuanCan00)"
+  degree:     "Ingeniería en Telecomunicaciones"
+  university: "Universidad Militar Nueva Granada — Colombia"
+  focus:
+    - "Arquitectura de Redes, Teletráfico TCP/IP y Comunicaciones Digitales"
+    - "Infraestructura Cloud, Sistemas Escalables y Despliegue Edge"
+    - "Procesamiento Digital de Señales (FFT) y Sistemas Embebidos (RP2040)"
+    - "Simulación Científica 3D (WebGL/Three.js) y Aplicaciones Web Modernas"
+  status:     "ONLINE · Construyendo soluciones de ingeniería y software"
+```
 
-- 🎓 Formación en **Ingeniería en Telecomunicaciones** — *Universidad Militar Nueva Granada*
-- ☁️ Interés activo en **redes, sistemas distribuidos e infraestructura escalable en la nube**
-- 📡 Experiencia en **análisis de señales (FFT), teletráfico TCP/IP y comunicaciones digitales**
-- 💻 Desarrollo de proyectos con **Python, TypeScript/JavaScript, C++ (embebidos), MATLAB y Next.js**
+<br />
 
----
+<img src="./assets/fiber-divider.svg" alt="Fiber Optic Divider" width="100%" />
 
-## Tecnologías y herramientas
+## `02 //` Infrastructure & Tech Stack
 
-| Área | Tecnologías |
-| :--- | :--- |
-| **Lenguajes** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square) |
-| **Frontend y Web** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white) |
-| **Datos, Señales y Redes** | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white) |
-| **Cloud, Backend y Embebidos** | ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+<div align="center">
 
----
+#### `CORE //` Lenguajes & Sistemas
 
-## Proyectos públicos destacados
+<img src="https://skillicons.dev/icons?i=py,ts,js,cpp,matlab,linux,arduino&theme=dark" alt="Lenguajes y sistemas" />
 
-### Telecomunicaciones, Señales y Redes
+<br /><br />
 
-| Proyecto | Descripción | Tecnologías | Enlace |
-| :--- | :--- | :--- | :---: |
-| **[Proyecto_Analisis_Senales](https://github.com/JuanCan00/Proyecto_Analisis_Senales)** | Ocultamiento y recuperación espectral de señales de audio mediante permutación biyectiva de coeficientes de Fourier (*Imitation* y *Reverse*). | `Python` `NumPy` `SciPy` `rFFT` | [Ver repo](https://github.com/JuanCan00/Proyecto_Analisis_Senales) |
-| **[Teletrafico_Cliente_Servidor](https://github.com/JuanCan00/Teletrafico_Cliente_Servidor)** | Análisis de teletráfico TCP en arquitectura cliente-servidor a partir de capturas Wireshark: descomposición de RTT, clasificación de ACKs y gráficas comparativas. | `Python` `Pandas` `Matplotlib` `Wireshark` | [Ver repo](https://github.com/JuanCan00/Teletrafico_Cliente_Servidor) |
-| **[HammingTx](https://github.com/JuanCan00/HammingTx)** | Transmisor embebido que lee el acelerómetro MPU6050, codifica en Hamming(7,4), visualiza en OLED SH1106 y transmite por UART para analizador lógico. | `C++` `Arduino` `RP2040` `I2C` `UART` | [Ver repo](https://github.com/JuanCan00/HammingTx) |
-| **[ComunicacionesDigitales](https://github.com/JuanCan00/ComunicacionesDigitales)** | Script de laboratorio en MATLAB para análisis de señales muestreadas, estimación de desfase por correlación cruzada y espectro FFT. | `MATLAB` `DSP` `FFT` | [Ver repo](https://github.com/JuanCan00/ComunicacionesDigitales) |
+#### `EDGE & WEB //` Frontend, 3D & Cloud
 
-### Simulación 3D y Desarrollo Web
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,threejs,html,css,supabase,cloudflare,postgres,git,github,vscode&theme=dark" alt="Web, 3D y Cloud" />
 
-| Proyecto | Descripción | Tecnologías | Enlace |
-| :--- | :--- | :--- | :---: |
-| **[laboratorio-levitacion-magnetica](https://github.com/JuanCan00/laboratorio-levitacion-magnetica)** | Laboratorio virtual 3D interactivo de levitación magnética (*Levitron* y *Tren Maglev*) con motor físico en unidades SI y pruebas automatizadas. | `JavaScript` `Three.js` `GSAP` `WebGL` | [Demo en vivo](https://juancan00.github.io/laboratorio-levitacion-magnetica/) |
-| **[birthday](https://github.com/JuanCan00/birthday)** | Experiencia web interactiva de cumpleaños con efecto *glassmorphism*, fuegos artificiales en Canvas, galería fotográfica en tiras y audio ambiental. | `HTML5` `CSS3` `JavaScript` `Canvas` | [Demo en vivo](https://juancan00.github.io/birthday/) |
-| **[HappyBirthday](https://github.com/JuanCan00/HappyBirthday)** | Página web interactiva de validación de cumpleaños con fuegos artificiales, cinta continua de fotos y efectos de sonido. | `HTML5` `CSS3` `JavaScript` `Canvas` | [Demo en vivo](https://juancan00.github.io/HappyBirthday/) |
-| **[Serie Presentación Software](https://github.com/JuanCan00/PresentacionSoftware2)** | Demostración progresiva en 3 etapas de diseño web con CSS Flexbox para Ingeniería en Telecomunicaciones ([Etapa 0](https://github.com/JuanCan00/PresentacionSoftware0) · [Etapa 1](https://github.com/JuanCan00/PresentacionSoftware) · [Etapa 2](https://github.com/JuanCan00/PresentacionSoftware2)). | `HTML5` `CSS3` `Flexbox` | [Demo final](https://juancan00.github.io/PresentacionSoftware2/) |
+<br /><br />
 
----
+#### `TELEMETRY & DSP //` Análisis de Señales, Redes y Datos
 
-## Contacto
+<p>
+  <img src="https://img.shields.io/badge/Wireshark-0B1120?style=for-the-badge&logo=wireshark&logoColor=1679A7" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/NumPy-0B1120?style=for-the-badge&logo=numpy&logoColor=4DABCF" alt="NumPy" />
+  <img src="https://img.shields.io/badge/SciPy-0B1120?style=for-the-badge&logo=scipy&logoColor=8CAAE6" alt="SciPy" />
+  <img src="https://img.shields.io/badge/Pandas-0B1120?style=for-the-badge&logo=pandas&logoColor=E2E8F0" alt="Pandas" />
+  <img src="https://img.shields.io/badge/GSAP-0B1120?style=for-the-badge&logo=greensock&logoColor=88CE02" alt="GSAP" />
+  <img src="https://img.shields.io/badge/WebGL-0B1120?style=for-the-badge&logo=webgl&logoColor=38BDF8" alt="WebGL" />
+</p>
 
-- **LinkedIn:** [linkedin.com/in/juancan00](https://www.linkedin.com/in/juancan00)
-- **GitHub:** [@JuanCan00](https://github.com/JuanCan00)
+</div>
+
+<br />
+
+<img src="./assets/fiber-divider.svg" alt="Fiber Optic Divider" width="100%" />
+
+## `03 //` Deployed Nodes — Proyectos Públicos Destacados
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><code>NODE-01</code> · <a href="https://github.com/JuanCan00/Proyecto_Analisis_Senales">Análisis de Señales (Imitation &amp; Reverse)</a></h3>
+      <p>Ocultamiento y recuperación espectral de cinco audios mediante permutación biyectiva de coeficientes complejos de Fourier (<code>rfft</code> / <code>irfft</code>) con generación de claves CSV.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-0B1120?style=flat-square&logo=python&logoColor=3776AB" />
+        <img src="https://img.shields.io/badge/NumPy-0B1120?style=flat-square&logo=numpy&logoColor=4DABCF" />
+        <img src="https://img.shields.io/badge/SciPy-0B1120?style=flat-square&logo=scipy&logoColor=8CAAE6" />
+      </p>
+      <p>🔗 <a href="https://github.com/JuanCan00/Proyecto_Analisis_Senales">Ver repositorio</a> · <a href="https://github.com/JuanCan00/Proyecto_Analisis_Senales/blob/main/EXPLICACION_IMITATION.md">Explicación matemática</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><code>NODE-02</code> · <a href="https://github.com/JuanCan00/laboratorio-levitacion-magnetica">Laboratorio Virtual de Levitación 3D</a></h3>
+      <p>Simulación física interactiva en tiempo real del <strong>Levitron</strong> y un <strong>Tren Maglev</strong> en unidades SI, renderizado WebGL con Three.js, animaciones GSAP y suite automatizada de pruebas.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Three.js-0B1120?style=flat-square&logo=threedotjs&logoColor=FFFFFF" />
+        <img src="https://img.shields.io/badge/JavaScript-0B1120?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+        <img src="https://img.shields.io/badge/GSAP-0B1120?style=flat-square&logo=greensock&logoColor=88CE02" />
+      </p>
+      <p>🟢 <a href="https://juancan00.github.io/laboratorio-levitacion-magnetica/">Demo en vivo</a> · <a href="https://github.com/JuanCan00/laboratorio-levitacion-magnetica">Ver repositorio</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><code>NODE-03</code> · <a href="https://github.com/JuanCan00/Teletrafico_Cliente_Servidor">Teletráfico TCP Cliente-Servidor</a></h3>
+      <p>Pipeline de análisis de capturas Wireshark (<code>.pcapng</code> / <code>.csv</code>): aislamiento de flujos, descomposición de RTT, clasificación de ACKs (<em>Piggybacking</em>, <em>Delayed</em>) y generación de reportes Excel y gráficas.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Wireshark-0B1120?style=flat-square&logo=wireshark&logoColor=1679A7" />
+        <img src="https://img.shields.io/badge/Pandas-0B1120?style=flat-square&logo=pandas&logoColor=FFFFFF" />
+        <img src="https://img.shields.io/badge/TCP%2FIP-0B1120?style=flat-square&logo=cisco&logoColor=38BDF8" />
+      </p>
+      <p>🔗 <a href="https://github.com/JuanCan00/Teletrafico_Cliente_Servidor">Ver repositorio y gráficas</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><code>NODE-04</code> · <a href="https://github.com/JuanCan00/HammingTx">HammingTx — Transmisor Embebido</a></h3>
+      <p>Firmware C++/Arduino (RP2040) que lee el acelerómetro <strong>MPU6050</strong> vía I2C, codifica 16 → 28 bits con <strong>Hamming(7,4)</strong>, muestra nibbles en OLED SH1106 y transmite por UART a analizador lógico.</p>
+      <p>
+        <img src="https://img.shields.io/badge/C%2B%2B-0B1120?style=flat-square&logo=cplusplus&logoColor=00599C" />
+        <img src="https://img.shields.io/badge/Arduino-0B1120?style=flat-square&logo=arduino&logoColor=00979D" />
+        <img src="https://img.shields.io/badge/UART%20%2F%20I2C-0B1120?style=flat-square&logoColor=22D3EE" />
+      </p>
+      <p>🔗 <a href="https://github.com/JuanCan00/HammingTx">Ver repositorio y captura lógica</a></p>
+    </td>
+  </tr>
+</table>
+
+<details>
+  <summary><strong>📂 Ver más nodos públicos (MATLAB, Web Interactiva y Demos Académicas)</strong></summary>
+  <br />
+
+| Nodo | Proyecto | Descripción | Enlace |
+| :---: | :--- | :--- | :---: |
+| `LAB-01` | **[ComunicacionesDigitales](https://github.com/JuanCan00/ComunicacionesDigitales)** | Script MATLAB para análisis de muestreo, correlación cruzada (`xcorr`) y espectro FFT. | [Repo](https://github.com/JuanCan00/ComunicacionesDigitales) |
+| `WEB-01` | **[birthday](https://github.com/JuanCan00/birthday)** | Web interactiva *glassmorphism* con fuegos artificiales en Canvas, galería táctil y audio. | [Demo](https://juancan00.github.io/birthday/) |
+| `WEB-02` | **[HappyBirthday](https://github.com/JuanCan00/HappyBirthday)** | Validación interactiva de cumpleaños con Canvas de partículas y cinta fotográfica. | [Demo](https://juancan00.github.io/HappyBirthday/) |
+| `EDU-01` | **[Serie Presentación Software](https://github.com/JuanCan00/PresentacionSoftware2)** | Demostración progresiva en 3 etapas de diseño HTML5 y CSS Flexbox ([0](https://github.com/JuanCan00/PresentacionSoftware0) · [1](https://github.com/JuanCan00/PresentacionSoftware) · [2](https://github.com/JuanCan00/PresentacionSoftware2)). | [Demo](https://juancan00.github.io/PresentacionSoftware2/) |
+
+</details>
+
+<br />
+
+<img src="./assets/fiber-divider.svg" alt="Fiber Optic Divider" width="100%" />
+
+## `04 //` Live NOC Telemetry — Estadísticas en Tiempo Real
+
+<div align="center">
+
+<a href="https://github.com/JuanCan00">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JuanCan00&bg_color=0B1120&color=38BDF8&line=06B6D4&point=F8FAFC&area=true&area_color=0284C7&hide_border=false&custom_title=Telemetr%C3%ADa%20de%20Actividad%20%E2%80%94%20%40JuanCan00" alt="Telemetría de Actividad" width="100%" />
+</a>
+
+<br /><br />
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=JuanCan00&show_icons=true&bg_color=0B1120&title_color=38BDF8&text_color=CBD5E1&icon_color=22D3EE&border_color=1E3A5F&border_radius=12" height="175" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanCan00&layout=compact&bg_color=0B1120&title_color=38BDF8&text_color=CBD5E1&border_color=1E3A5F&border_radius=12" height="175" alt="Top Languages" />
+</p>
+
+<p>
+  <img src="https://streak-stats.demolab.com?user=JuanCan00&background=0B1120&border=1E3A5F&border_radius=12&ring=22D3EE&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=CBD5E1&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=94A3B8" alt="GitHub Streak" />
+</p>
+
+</div>
+
+<br />
+
+<!-- Animated Network Footer -->
+<div align="center">
+  <img src="./assets/datacenter-footer.svg" alt="Signal Locked — Juan Pablo Cano" width="100%" />
+</div>
